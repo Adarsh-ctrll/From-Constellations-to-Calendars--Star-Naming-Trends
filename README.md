@@ -25,4 +25,4 @@ A collaborative project exploring how stars have been named throughout history �
 - **Arushi Khare** – Dataset Collection & Insights
 
 ## 📎 Repository Link
-[github.com/Adarsh-ctrl/StarNamingTrends](https://github.com/Adarsh-ctrl/StarNamingTrends)
+[(https://github.com/Adarsh-ctrl/StarNamingTrends)](https://github.com/Adarsh-ctrll/From-Constellations-to-Calendars--Star-Naming-Trends)
